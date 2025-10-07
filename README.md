@@ -32,3 +32,6 @@ A modern web messenger built with **React**, **Firebase**, and **Zustand**.
 ![Screenshot 2025-10-07 190542](https://github.com/user-attachments/assets/f66f6afd-8845-40d7-841d-9c71edd0c640)
 ![Screenshot 2025-10-07 190526](https://github.com/user-attachments/assets/eadf7740-e303-42ad-ace2-874dba6d7f34)
 ![Screenshot 2025-10-07 190559](https://github.com/user-attachments/assets/f6dba536-de16-4b2a-ab37-46b89c480ad4)
+
+## 📸 Video
+https://drive.google.com/file/d/1b_LcBOrgMu512pg4IsJhwLxuRXyNTwiR/view?usp=drive_link
