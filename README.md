@@ -35,3 +35,13 @@ A modern web messenger built with **React**, **Firebase**, and **Zustand**.
 
 ## 📸 Video
 https://drive.google.com/file/d/1WxUNOviNJztKtJwVZhjojEd6zzwuEHyh/view?usp=sharing
+
+## 🔑 Demo Credentials
+
+You can use these demo accounts to log in:
+
+- **Email:** `kira@gmail.com`  
+  **Password:** `qazwsx`
+
+- **Email:** `yevhen@gmail.com`  
+  **Password:** `qazwsx`
